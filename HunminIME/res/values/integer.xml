@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="keycode_arrow_left">-20</integer>
+    <integer name="keycode_arrow_right">-21</integer>
+    <integer name="keycode_arrow_up">-22</integer>
+    <integer name="keycode_arrow_down">-23</integer>
+</resources>

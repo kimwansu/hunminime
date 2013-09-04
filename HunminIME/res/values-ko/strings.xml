@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ime_name">훈민정음 키보드</string>
+    <string name="english_ime_name">"훈민정음 키보드"</string>
+    <string name="english_ime_settings">"훈민정음 키보드 설정"</string>
+    <string name="input_feedback">입력 반응 설정</string>
+    <string name="vibrate_on_keypress">"키를 누를 때 진동 발생"</string>
+    <string name="sound_on_keypress">"버튼을 누를 때 소리 발생"</string>
+    
+    <string name="input_config">입력 설정</string>
+    <string name="hangul_kbd_type">"한글 키보드 종류"</string>
+    <string name="hangul_kbd_type_desc">"한글 키보드 종류를 선택합니다."</string>
+    <string-array name="hangul_kbd_type_list">
+        <item>"큰 화면용 키보드"</item>
+        <item>"작은 화면용 키보드"</item>
+    </string-array>
+    
+    <string name="hangul_automata_type">"한글 오토마타 종류"</string>
+    <string name="hangul_automata_type_desc">"한글 오토마타 종류를 선택합니다."</string>
+    <string-array name="hangul_automata_type_list">
+        <item>"입력 순서 자동 보정"</item>
+        <item>"보통"</item>
+        <item>"풀어쓰기"</item>
+        <item>"완전 풀어쓰기"</item>
+    </string-array>
+    
+    <string name="backspace_option">"백스페이스 키 동작"</string>
+    <string name="backspace_option_desc">"백스페이스 키를 눌렀을 때의 동작을 선택합니다."</string>
+    <string-array name="backspace_option_list">
+        <item>"모두 자소 단위"</item>
+        <item>"조합중인 글자만 자소 단위"</item>
+        <item>"언제나 글자 단위"</item>
+    </string-array>
+    
+    <string name="delete_by_base_unit">"최소 자소 단위로 지우기"</string>
+    <string name="infinite_compose_unit">"무한 낱자 조합"</string>
+    
+    <!-- no translation found for prediction_modes_values:0 (579944677836100459) -->
+    <!-- no translation found for prediction_modes_values:1 (7214414132844804570) -->
+    <!-- no translation found for prediction_modes_values:2 (6678546276084314171) -->
+    <string name="alternates_for_a">"àáâãäåæ"</string>
+    <string name="alternates_for_e">"èéêë"</string>
+    <string name="alternates_for_i">"ìíîï"</string>
+    <string name="alternates_for_o">"òóôõöœø"</string>
+    <string name="alternates_for_u">"ùúûü"</string>
+    <string name="alternates_for_s">"§ß"</string>
+    <string name="alternates_for_n">"ñ"</string>
+    <string name="alternates_for_c">"ç"</string>
+    <string name="alternates_for_y">"ýÿ"</string>
+    <!-- no translation found for alternates_for_z (8206774143334512268) -->
+    <string name="label_go_key">"이동"</string>
+    <string name="label_next_key">"다음"</string>
+    <string name="label_done_key">"완료"</string>
+    <string name="label_send_key">"전송"</string>
+    <string name="label_symbol_key">"?123"</string>
+    <string name="label_phone_key">"123"</string>
+    <string name="label_alpha_key">"ABC"</string>
+    <string name="label_hangul_key">"\ud55c"</string>
+    <string name="label_alt_key">"ALT"</string>
+    <string name="inputMethod">"입력 방법"</string> 
+</resources>
